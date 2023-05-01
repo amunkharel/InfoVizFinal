@@ -1,0 +1,80 @@
+{
+ "name": "flare",
+ "children": [
+  {
+    "name": "Delaware",
+    "children": [
+     {
+      "name": "New Castle",
+      "children": [
+       {"name": "City 1", "value": 14},
+       {"name": "City 2", "value": 29},
+       {"name": "City 3", "value": 50},
+       {"name": "City 4", "value": 70}
+      ]
+     },
+     {
+      "name": "Kent",
+      "children": [
+       {"name": "City 1", "value": 100},
+       {"name": "City 2", "value": 151},
+       {"name": "City 3", "value": 12},
+       {"name": "City 4", "value": 15},
+       {"name": "City 5", "value": 80}
+      ]
+     },
+     {
+      "name": "Sussex",
+      "children": [
+       {"name": "City 1", "value": 15}
+      ]
+     }
+    ]
+  },
+  {
+    "name": "Hawaii",
+    "children": [
+     {"name": "Hawaii County", "value": 55},
+     {"name": "Maui County", "value": 121},
+     {
+      "name": "Kalawao County",
+      "children": [
+       {"name": "City 1", "value": 50},
+       {"name": "City 2", "value": 23}
+      ]
+     },
+     {"name": "Honolulu County", "value": 100},
+     {"name": "Kauai County", "value": 150}
+    ]
+  },
+  {
+    "name": "Rhode Island",
+    "children": [
+     {
+      "name": "Bristol County",
+      "children": [
+       {"name": "City 1", "value": 11},
+       {"name": "City 2", "value": 51},
+       {"name": "City 3", "value": 41},
+       {"name": "City 4", "value": 22},
+       {"name": "City 5", "value": 33}
+      ]
+     },
+     {"name": "Kent County", "value": 151},
+     {"name": "Newport County", "value": 200},
+     {"name": "Providence County", "value": 120}
+    ]
+  },
+
+  {
+    "name": "Conneticut",
+    "children": [
+     {"name": "Fairfield County", "value": 141},
+     {"name": "Hartford County", "value": 212},
+     {"name": "Litchfield County", "value": 100},
+     {"name": "Middlesex County", "value": 123}
+    ]
+  }
+
+ ]
+}
