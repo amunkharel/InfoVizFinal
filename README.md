@@ -6,4 +6,8 @@ We create the Zoomable Area-chart using the code inside the folder zoomable-area
 
 ## Zoomable Sunburst
 ![alt text](Images/Sunburst.png)
-We create the Zoomable Sunburst using the code inside the folder zoomable-sunburst. Please check README.md file inside the folder for more instructions. We need to change the json inside zoomable-sunburst/files by the json from data/small-states.json to get the second image. 
+We create the Zoomable Sunburst using the code inside the folder zoomable-sunburst. Please check README.md file inside the folder for more instructions. We need to change the json inside zoomable-sunburst/files by the json from data/small-states.json to get the second image.
+
+## Area/Line Graph
+![alt text](Images/DataVisualization5.PNG)
+We create the Area/Line graph using the code inside the area-and-line-graph folder line. Please check README.md file inside the folder for more instructions.
