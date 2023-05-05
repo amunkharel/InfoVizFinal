@@ -1,1 +1,1 @@
-
+The processing.ipynb notebook uses Plotly to create the choropleth map. Some data cleaning and processing is completed prior to creating the visualization. This notebook uses the accidents.csv data to create the visualization. 
