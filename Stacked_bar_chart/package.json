@@ -1,0 +1,14 @@
+{
+  "name": "b5f1c2450aee6140",
+  "main": "b5f1c2450aee6140@66.js",
+  "version": "66.0.0",
+  "homepage": "https://observablehq.com/d/b5f1c2450aee6140",
+  "author": {
+    "name": "Akshay Dahiya",
+    "url": "https://observablehq.com/@dakshay7"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
